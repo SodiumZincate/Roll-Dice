@@ -1,4 +1,4 @@
-# coin_toss
+`This is a simple coin toss program made to learn the basics of a flutter application` 
 
 A new Flutter project.
 
